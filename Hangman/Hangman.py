@@ -1,5 +1,5 @@
-from drawings import losing_message, winning_message, draw_hangman, blue, red, bold
-from sort_words import intro_e_sort_words
+from Hangman.drawings import losing_message, winning_message, draw_hangman, blue, red, bold
+from Hangman.sort_words import intro_e_sort_words
 
 
 def play():
